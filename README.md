@@ -1,6 +1,10 @@
-# irobenedictjupyter-opencv![Screenshot 2025-07-03 015251](https://github.com/user-attachments/assets/4e2920b2-0bab-404e-a6bb-f507849582e2)
-![Screenshot 2025-07-03 015133](https://github.com/user-attachments/assets/056df00c-8e45-41cc-b758-60202f5c113d)
-![Screenshot 2025-07-03 015233](https://github.com/user-attachments/assets/8805fed8-cd1f-482c-8ce7-1dd45c4f0cda)
+![image](https://github.com/user-attachments/assets/9f9419a1-27d9-4c47-86fa-200f81543dea)
+
+![image](https://github.com/user-attachments/assets/1f38e5a7-adcd-412e-a7f2-59fc9a28ee4a)
+
+![image](https://github.com/user-attachments/assets/3c4ef838-651f-47fd-9707-09405e1fffda)
+
+
 ![IMG_20250703_021027](https://github.com/user-attachments/assets/6b654080-9d31-4dd8-a29f-3ae99f71e072)
 ![IMG_20250703_021017](https://github.com/user-attachments/assets/d6877d51-60ba-44f5-9992-e29bf0f890a4)
 ![IMG_20250703_020955](https://github.com/user-attachments/assets/8790178d-b946-4a46-9421-265c341d4a9b)
